@@ -1,6 +1,7 @@
 #!/bin/bash
 # Install WordPress on Ubuntu server by cecep-91
 # edited lol
+# edited 2
 # Functions I need:
 # Check root privileges
 check_root() {
